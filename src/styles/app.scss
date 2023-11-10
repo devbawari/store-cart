@@ -1,0 +1,21 @@
+@import "colors";
+@import "header"; 
+@import "home";
+@import "cart";
+@import "mediaquery";
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+*
+{
+    font-size: "Roboto";
+    margin: 0%;
+    padding: 0% ;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+body
+{
+    background-color: $primary;
+    
+}
